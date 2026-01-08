@@ -84,8 +84,3 @@ DynamicQuizApp/
 http://localhost/DynamicQuizApp/index.php
 
 
----
-
-
-## 📂 Project Folder Structure
-
